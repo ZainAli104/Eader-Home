@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "eader-home",
+    "eader": "eader-home"
+  },
+  "targets": {},
+  "etags": {}
+}
